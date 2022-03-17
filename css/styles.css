@@ -7,7 +7,7 @@
 body {font-family: 'Raleway', sans-serif;
 	
 	color: #202030;
-	background-color: #f8f8fc;
+	background-color: #BFBFBF;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
@@ -22,7 +22,7 @@ body {font-family: 'Raleway', sans-serif;
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #ECBEC8;
 }
 
 /* Styles for lists in the document */
@@ -48,4 +48,8 @@ body {font-family: 'Raleway', sans-serif;
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+.text{
+	
+	text-shadow: 5px 5px 5px grey;
 }
